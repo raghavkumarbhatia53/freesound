@@ -100,7 +100,7 @@ In most situations it is possible that not all Freesound services need to be run
     docker-compose up web search
 
 
-### Running tests
+### Running tests(Preffered)
 
 You can run tests using the Django test runner in the `web` container like that:
 
